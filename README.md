@@ -1,1 +1,1 @@
-# This Repository was created for players to fetch central servers.
+# This Repository was created for players to fetch the serverlist.
